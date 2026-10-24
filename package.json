@@ -1,0 +1,11 @@
+{
+  "name": "aws-devops-ci-project",
+  "version": "1.0.0",
+  "description": "A simple Node.js application for learning AWS CI/CD",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test app.test.js"
+  },
+  "license": "MIT"
+}
